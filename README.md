@@ -1,1 +1,3 @@
-This is my first Repository created for an assignment in class
+H# First Repository
+This is my first repository for a class assignment
+Third Commit
